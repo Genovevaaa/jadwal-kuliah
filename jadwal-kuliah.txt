@@ -21,10 +21,6 @@
   <dd>- 14.00-16.50 Algoritma Optimisasi</dd>
   <dt>Jumat</dt>
   <dd>- 08.00-09.50 Kewirausahaan</dd>
-  <dt>Sabtu</dt>
-  <dd>  -  </dd>
-  <dt>Minggu</dt>
-  <dd>  -  </dd>
 </dl>
 
 </body>
