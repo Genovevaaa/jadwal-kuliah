@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Jadwal Kuliah</h2>
+
+<dl>
+  <dt>Senin</dt>
+  <dd>- 10.00-12.50 Analisis dan Strategi Algoritma</dd>
+  <dd>- 13.00-15.50 Administrasi Basis Data</dd>
+  <dd>- 16.00-18.50 Pemrograman Berbasis Platform</dd>
+  <dt>Selasa</dt>
+  <dd>- 07.00-09.50 Algoritma Optimisasi</dd>
+  <dd>- 13.00-15.50 RPL</dd>
+  <dt>Rabu</dt>
+  <dd>- 07.00-09.50 Pengenalan Pola</dd>
+  <dd>- 13.00-15.50 Pengenalan Pola</dd>
+  <dt>Kamis</dt>
+  <dd>- 07.00-09.50 Pemrograman Berbasis Platform</dd>
+  <dd>- 10.00-12.50 RPL</dd>
+  <dd>- 14.00-16.50 Algoritma Optimisasi</dd>
+</dl>
+
+</body>
+</html>
